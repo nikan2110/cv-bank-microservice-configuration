@@ -7,3 +7,4 @@ eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/s
 
 management.endpoints.routes.enabled= true
 management.endpoints.web.exposure.include=*
+jwt.secretKey = mysecret
